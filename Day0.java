@@ -11,7 +11,7 @@ public class Day0{
     
     scan.close();
     
-	//prints out the default string and input string
+    //prints out the default string and input string
     System.out.println("Hello, World.");
     System.out.println(inputString);
   }
