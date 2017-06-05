@@ -21,7 +21,7 @@ public class Arithmetic{
 		//cast the result of the rounding operation to an int
 		int totalCost = (int) Math.round(cost);
 
-		//Prints result
+		//Prints the result
 		System.out.println("The total meal cost is " + totalCost + " dollars.");
 	}
 }
