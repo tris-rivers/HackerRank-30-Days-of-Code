@@ -6,7 +6,7 @@ public class Day0{
   public static void main(String[] args){
     Scanner scan = new Scanner(System.in);
     //gets input string from user
-	System.out.println("Enter a string: ");
+    System.out.println("Enter a string: ");
     String inputString = scan.nextLine();
     
     scan.close();
